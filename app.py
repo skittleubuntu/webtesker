@@ -1,0 +1,2 @@
+# Наприклад
+print("Hello, GitHub!")
